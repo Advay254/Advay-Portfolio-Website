@@ -1,0 +1,18 @@
+{
+  "name": "advay-portfolio-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio, tools hub, and brand suite — self-hostable Node.js + Supabase.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
